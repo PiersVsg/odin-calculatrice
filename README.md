@@ -1,5 +1,5 @@
 # Odin Project #5: Calculatrice
-Lien: piersvsg.github.io/odin-calculatrice
+Lien: https://piersvsg.github.io/odin-calculatrice/
 
 Réalisation d’une calculatrice 
 
